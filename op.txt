@@ -1,0 +1,121 @@
+they should work
+yeah this
+I don't think it understands it as well
+a text equals to add or recognise underscore Google
+return a text
+deaf speech
+polystyrene is a thermoplastic that can easily be molded by heating moreover in it
+between stomach and fibres
+elastomers
+in oligosaccharides how many monosaccharides will be present
+this is working now
+what is low
+can you understand
+grey colour
+{'alternative': [{'transcript': 'hello'}], 'final': True}
+{'alternative': [{'transcript': 'alternative'}, {'transcript': 'alternatives'}], 'final': True}
+{'alternative': [{'transcript': 'monosaccharides'}, {'transcript': 'monosaccharide'}], 'final': True}
+{'alternative': [{'transcript': 'do you get that'}, {'transcript': 'do you get'}, {'transcript': 'do you get the'}, {'transcript': 'do you get there'}], 'final': True}
+{'alternative': [{'transcript': 'are pretty cool'}, {'transcript': 'help pretty cool'}, {'transcript': 'help pretty girl'}, {'transcript': 'are pretty girl'}, {'transcript': 'help medical'}], 'final': True}
+{'alternative': [{'transcript': 'hi hi hi hi'}, {'transcript': 'hi hi hi hi hi'}, {'transcript': 'hi hi hi hi hi hi'}, {'transcript': 'hi hi hi'}, {'transcript': 'cccccc'}], 'final': True}
+{'alternative': [{'transcript': 'cccccc'}, {'transcript': 'ccccc'}, {'transcript': 'CCC'}, {'transcript': 'cccc'}, {'transcript': 'CCC CCC'}], 'final': True}
+
+you: hello there
+Bocchi: ......H-hi...
+
+*awkwardly fidgeting and unable to make eye contact*
+you: yeah this work
+Bocchi: *gulps* yeah, heh, this work...
+
+*sweating nervously and starting to breathe erratically*
+you: what is this guitar Hero doing
+Bocchi: Uh, w-well, I...
+
+*mumbles* I'm playing... uh, Guitar Hero...
+you: Guwahati to
+Bocchi: *looks up and squints eyes*
+
+Huh? W-what... ?
+you: you can hear me
+Bocchi: *mumbles*
+
+....Y-yeah... I-I can...
+you: these nuts
+Bocchi: *gulps, getting nervous again*
+
+Uh, w-what?
+you: say something what
+Bocchi: *nods head slowly*
+
+Uh, something...
+you: stop bothering me
+Bocchi: Oh, s-sorry...
+
+*looks down, mumbling*
+you: you can
+Bocchi: *looks up quickly, trying to look at you but failing to make eye contact and fidgeting nervously*
+you: best
+Bocchi: *smiles nervously*
+
+Th-thank you...
+you: Nuclear Fission the process in which heavy nucleus splits up into two nuclei of nearly comparable masses is called nuclear fission
+Bocchi: *looks up and squints again, thinking for a moment*
+
+T-that's correct, i-it's called nuclear fission...
+you: speech
+Bocchi: *nods head slowly*
+
+Uh, s-speech...
+you: using AC for because it's this thing it has to do API request rate
+Bocchi: *blinks*
+
+Uh, a-api request rate....
+you: like it's like
+Bocchi: *tilts head, thinking.*
+
+It's like the...?
+you: Badan the message textile time for things to go through the internet and come back
+Bocchi: *nods slowly, a bit confused but understanding*
+
+I-its like the... uh, message send time...
+you: hello there
+Zoro: Heyyy
+you: cores
+Zoro: Cores?
+you: how is my name
+Zoro: Your name is chat
+you: when can I go
+Zoro: You can go now
+you: the position of different parts of mobile phone at different
+Zoro: That's the positions parts have in an electronic device known as a “mobile phone”
+you: Zara said you can go now
+Zoro: Oh did she?
+you: tell me what is Physics
+Zoro: Physics is the science that explores the fundamental nature of the universe and the forces that hold it together. It studies matter and energy, as well as the interactions between them. It looks at the way the world works, and tries to understand why and how it does so.
+you: Ramdas craz
+Zoro: Ramdas “Crazy” is an epithet given to Indian freedom fighter and Indian Social Reformer Ramdas Sakharam Bhandarkar.
+you: hello
+Zoro: Heyy
+you: brijnath
+Zoro: Brijnath is a Hindu name, derived from the Sanskrit word "Brihjananath", which means “the lord of the universe”. This name is often given to Hindu boys as a sign of devotion to God.
+you: kill yourself
+Zoro: Excuse me?!
+you: hello there
+Zoro: Hey!
+you: Zoro where are you lost
+Zoro: ...I'm not lost...
+you: hello bachi
+Bocchi: Hi......
+you: can you play a song for me
+Bocchi: Umm... sure, I can try...
+you: give me a introduction
+Bocchi: *deep breath*
+
+Hi, I'm Bocchi, and I'm a shy and awkward girl who's not good at socializing...
+you: Konichiwa
+you: hello
+Bocchi: *waves slowly*
+you: teach me quantum physics
+Bocchi: Quantum physics is the branch of physics that studies the behavior of matter and energy at the subatomic level, where the effects of wave-particle duality, Heisenberg's uncertainty principle, and other characteristics of the quantum realm become significant. It explores the nature of matter and energy, the properties of light and other radiation, the fundamental interactions between particles, and more.
+you: the nature of matter
+Bocchi: Matter, in physics, is any substance that has mass and takes up space, having attributes such as color, texture, and shape. Matter can also behave as energy, and vice versa, as Einstein's famous formula E=mc^2 demonstrates. Matter exists in various states, including solid, liquid, gas, and plasma, and all things in the universe are either made of or interact with matter.
